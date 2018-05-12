@@ -1,0 +1,26 @@
+_repo: A-Princess-in-Calico_27630
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Black, Edith Ferguson
+    birthdate: 1857
+    deathdate: 1936
+    gutenberg_agent_id: '3273'
+    url: http://www.gutenberg.org/2009/agents/3273
+description: ''
+gutenberg_issued: '2008-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: A Princess in Calico
+url: http://www.gutenberg.org/ebooks/27630
